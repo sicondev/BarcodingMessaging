@@ -1,0 +1,7 @@
+C:\Users\andrew.fife\source\repos\MessageServiceExample\Sicon.Sage200.Barcoding.MessageListener\Sicon.Sage200.Barcoding.MessageListener\obj\Debug\Sicon.Sage200.Barcoding.MessageListener.csprojAssemblyReference.cache
+C:\Users\andrew.fife\source\repos\MessageServiceExample\Sicon.Sage200.Barcoding.MessageListener\Sicon.Sage200.Barcoding.MessageListener\obj\Debug\Sicon.Sage200.Barcoding.MessageListener.csproj.CopyComplete
+C:\Users\andrew.fife\source\repos\MessageServiceExample\Sicon.Sage200.Barcoding.MessageListener\Sicon.Sage200.Barcoding.MessageListener\obj\Debug\Sicon.Sage200.Barcoding.MessageListener.dll
+C:\Users\andrew.fife\source\repos\MessageServiceExample\Sicon.Sage200.Barcoding.MessageListener\Sicon.Sage200.Barcoding.MessageListener\obj\Debug\Sicon.Sage200.Barcoding.MessageListener.pdb
+C:\SourceCode\Sicon.Sage200.WebAPI\Release19\Sicon.Sage200.WebAPI\bin\Sicon.Sage200.Barcoding.MessageListener.dll.config
+C:\SourceCode\Sicon.Sage200.WebAPI\Release19\Sicon.Sage200.WebAPI\bin\Sicon.Sage200.Barcoding.MessageListener.dll
+C:\SourceCode\Sicon.Sage200.WebAPI\Release19\Sicon.Sage200.WebAPI\bin\Sicon.Sage200.Barcoding.MessageListener.pdb
